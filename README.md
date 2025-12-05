@@ -1,96 +1,79 @@
-🚀 Realtime-Process-Monitoring-Dashboard
+# 🚀 Realtime-Process-Monitoring-Dashboard
 
-A powerful, real-time monitoring dashboard designed to visualize system performance, track KPIs, and manage processes through an intuitive and interactive interface.
-This dashboard continuously updates with the latest system data, helping users make faster and smarter operational decisions.
+A powerful real-time monitoring dashboard designed to visualize system performance, track KPIs, and manage processes through an intuitive and interactive interface.  
+This dashboard continuously updates with the latest system data, helping users make faster and smarter operational decisions.  
+Stay ahead of anomalies, monitor workflows efficiently, and gain actionable insights — all in one seamless dashboard. 📊⚙️
 
-Stay ahead of anomalies, monitor workflows efficiently, and gain actionable insights — all in one seamless dashboard.
-📊⚙️
+---
 
-🌟 Overview
-
-The Real-Time Process Monitoring Dashboard provides an auto-refreshing, high-visibility view of key performance indicators such as CPU usage, memory utilization, and process health.
-
+## 🌟 Overview
+The **Real-Time Process Monitoring Dashboard** provides an auto-refreshing, high-visibility view of key performance indicators such as CPU usage, memory utilization, and process health.  
 With real-time graphs, advanced filtering, and process management controls, this system empowers users to detect inefficiencies instantly and maintain smooth operations.
 
-🔍 Key Features
-✅ System Status Monitoring
+---
 
-Live timestamp and system heartbeat indicator
+## 🔍 Key Features
 
-Online/Offline status with color-coded badges
+### ✅ System Status Monitoring
+- Live timestamp and system heartbeat indicator  
+- Online/Offline status with color-coded badges  
+- Auto-refreshing system data  
 
-Auto-refreshing system data
+---
 
-📊 Real-Time Data Visualization
+## 📊 Real-Time Data Visualization
+Interactive charts built using Chart.js:
 
-Interactive charts built :
+- 📈 **CPU Usage (Live %)**  
+- 📈 **Memory Usage (Live %)**  
 
-📈 CPU Usage (Live %)
-📈 Memory Usage (Live %)
+### Features:
+- Real-time updates  
+- Zoom and Pan support  
+- CSV Export for analysis  
+- Fully responsive charts  
 
-Features include:
+---
 
-Real-time updates
+## 📋 Dynamic Process Management Table
+Automatically generated list of simulated system processes showing:
 
-Zoom and Pan support
+- PID  
+- Process Name  
+- Status → *Running | Sleeping | Stopped | Zombie*  
+- CPU Usage  
+- Memory Usage  
+- Priority Dropdown  
+- Action Buttons (Kill / Restart)  
 
-CSV Export for analysis
+Color-coded status badges and a clean interface enhance visibility.
 
-Responsive design for all screens
+---
 
-📋 Dynamic Process Management Table
+## ⚙️ Actions & Filters
 
-Automatically generated list of simulated system processes with:
+### Process Actions
+- 🔥 Kill Process  
+- ♻️ Restart Process  
+- 🎛 Change Priority  
+- 📦 Bulk Kill / Bulk Restart  
 
-PID
+### Live Filters
+- Status Filter  
+- Action Filter  
+- CPU/Memory Threshold  
+- PID Range  
+- Search by Process Name  
 
-Process Name
+---
 
-Status → Running | Sleeping | Stopped | Zombie
+## 🕒 Time Range Control
+Switch real-time graph views between:
+- **5 minutes**  
+- **15 minutes**  
+- **30 minutes**  
+- **60 minutes**
 
-CPU Usage
+Charts automatically update labels and datasets according to the selected time window.
 
-Memory Usage
-
-Priority Selector
-
-Action Buttons (Kill / Restart)
-
-Color-coded status badges and clean UI enhance visibility.
-
-⚙️ Actions & Filters
-Process Actions
-
-🔥 Kill Process
-
-♻️ Restart Process
-
-🎛 Change Priority
-
-📦 Bulk Actions (Kill/Restart Multiple Processes)
-
-Live Filters
-
-Status Filter
-
-Action Filter
-
-CPU/Memory Threshold
-
-PID Range Filter
-
-Search by Process Name
-
-🕒 Time Range Control
-
-Switch real-time data views between:
-
-5 minutes
-
-15 minutes
-
-30 minutes
-
-60 minutes
-
-Charts automatically update labels and datasets according to the selected range.
+---
