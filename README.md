@@ -4,13 +4,12 @@ A powerful real-time monitoring dashboard designed to visualize system performan
 This dashboard continuously updates with the latest system data, helping users make faster and smarter operational decisions.  
 Stay ahead of anomalies, monitor workflows efficiently, and gain actionable insights — all in one seamless dashboard. 📊⚙️
 
----
 
 ## 🌟 Overview
 The **Real-Time Process Monitoring Dashboard** provides an auto-refreshing, high-visibility view of key performance indicators such as CPU usage, memory utilization, and process health.  
 With real-time graphs, advanced filtering, and process management controls, this system empowers users to detect inefficiencies instantly and maintain smooth operations.
 
----
+
 
 ## 🔍 Key Features
 
@@ -19,7 +18,7 @@ With real-time graphs, advanced filtering, and process management controls, this
 - Online/Offline status with color-coded badges  
 - Auto-refreshing system data  
 
----
+
 
 ## 📊 Real-Time Data Visualization
 Interactive charts built using Chart.js:
@@ -33,7 +32,7 @@ Interactive charts built using Chart.js:
 - CSV Export for analysis  
 - Fully responsive charts  
 
----
+
 
 ## 📋 Dynamic Process Management Table
 Automatically generated list of simulated system processes showing:
@@ -48,7 +47,7 @@ Automatically generated list of simulated system processes showing:
 
 Color-coded status badges and a clean interface enhance visibility.
 
----
+
 
 ## ⚙️ Actions & Filters
 
@@ -65,7 +64,7 @@ Color-coded status badges and a clean interface enhance visibility.
 - PID Range  
 - Search by Process Name  
 
----
+
 
 ## 🕒 Time Range Control
 Switch real-time graph views between:
@@ -76,4 +75,4 @@ Switch real-time graph views between:
 
 Charts automatically update labels and datasets according to the selected time window.
 
----
+
