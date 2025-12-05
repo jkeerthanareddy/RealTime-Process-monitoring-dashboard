@@ -76,3 +76,8 @@ Switch real-time graph views between:
 Charts automatically update labels and datasets according to the selected time window.
 
 
+## ScreenShorts
+<img width="957" height="534" alt="image" src="https://github.com/user-attachments/assets/5e0bea3e-4149-43b4-acf4-fff453902be1" />
+<img width="953" height="533" alt="image" src="https://github.com/user-attachments/assets/9b8e6b99-2f0b-4324-a27b-8bc79445a32d" />
+
+
